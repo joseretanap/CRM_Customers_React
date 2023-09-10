@@ -1,0 +1,41 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013320,
+      "email": "juan@jose.com",
+      "empresa": "Aplix"
+    },
+    {
+      "nombre": "Leila Mora",
+      "empresa": "Aplix",
+      "email": "lei@jose.com",
+      "telefono": "102010013",
+      "notas": "A",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Maria",
+      "telefono": 102413313,
+      "email": "maria@jose.com",
+      "empresa": "Aplix"
+    },
+    {
+      "id": 5,
+      "nombre": "Jose",
+      "telefono": 102013213,
+      "email": "jose@jose.com",
+      "empresa": "Aplix"
+    },
+    {
+      "nombre": "Pablo",
+      "empresa": "Aplix",
+      "email": "joseretanap@outlook.com",
+      "telefono": "99900009",
+      "notas": "a",
+      "id": 6
+    }
+  ]
+}
